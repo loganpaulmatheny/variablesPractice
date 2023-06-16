@@ -9,3 +9,11 @@ var numSlices = 8;
 var boy = true;
 var enjoySport = true;
 var isHungry = false;
+
+name = "Arlo";
+sport = "chasing bunnies";
+food = "bones";
+
+console.log(
+  `${name} likes playing his favorite sport which is ${sport} after he eats his favorite food which is ${food}.`
+);
